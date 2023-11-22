@@ -5,5 +5,6 @@
     <color name="my_primary">#FFBB86FC</color>
     <color name="my_Secondary">#FF6200EE</color>
     <color name="my_statusbar">#9991AA</color>
-<color name="my_text">#ED0A0A</color>
+    <color name="my_text">#ED0A0A</color>
+    <color name="purple_200">#673AB7</color>
 </resources>
